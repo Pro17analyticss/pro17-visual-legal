@@ -62,13 +62,4 @@ Updated versions will identify their effective date.
 Pro17 Analytics
 Website: https://pro17analytics.com/
 Email: info@pro17analytics.com
-________________________________________
-Internal Review Checklist – Remove Before Publication
-•	Confirm storage and retention of report data, analytical questions, preferences, and logs.
-•	Verify external API/network calls and any transfer of data outside Power BI.
-•	Confirm the production analytical-assistant implementation, telemetry, and permissions.
-•	Confirm the privacy contact email.
-•	Obtain management/legal approval.
-•	Set the final effective date.
-•	Remove draft notices and this internal checklist before publication.
 
